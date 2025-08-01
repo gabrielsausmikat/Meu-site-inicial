@@ -1,2 +1,3 @@
-# Meu-site-inicial
-Um site extremamente simples criado com HTML, CSS e JavaScript com um botão de interação para tema claro e escuro.
+#Meu primeiro site
+Este é um projeto simples desenvolvido com HTML, CSS e JavaScript.
+Inclui um botão de alternância entre tema claro e escuro.
